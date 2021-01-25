@@ -15,7 +15,7 @@
             "name": "Launch MainSocketStart",
             "request": "launch",
             "mainClass": "nettyNIO.hander.MainSocketStart",
-            "projectName": "test_technology"
+            "projectName": "hardware_netty"
         }
     ]
 }
